@@ -1,0 +1,12 @@
+     RMV
+   ========
+
+  Syntax:
+    RMV X Y
+
+  Description: The cell at the coordinate specified by X and Y 
+               will be removed from the universe.
+
+  Range of X values:   0 - (Number_Cols - 1) 
+
+  Range of Y values:   0 - (Number_Rows - 1)

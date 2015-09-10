@@ -1,0 +1,18 @@
+     HELP
+   ========
+
+  Syntax:
+    1:   HELP
+      Description: Prints the screen you are reading now
+    2:   HELP COMMAND
+      Description: Prints help screen for specified command
+
+  List of COMMANDs:
+    HELP
+    ADD
+    RMV
+    SAVE
+    START
+ 
+  
+   
