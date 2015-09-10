@@ -1,11 +1,15 @@
 #Conway's Game of Life
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
+
+---------------------
 Author: Dan Wilder
 Date: Dec 14 2013
 ---------------------
 
-~ This document serves to explain the config file.
+** Interactive initialization was never fully implemented. 
+
+~ Below explains the config file.
     Don't change name. Keep filename "config".
 
 ------------------------------------------------------------------------
