@@ -1,7 +1,7 @@
 /* Author: Dan Wilder
    Version: 1.5
-   Date Last Modified: 16 Dec 2013
-   Email: the.wldr@gmail.com
+   16 Dec 2013
+   Email: sentient.hdd@gmail.com
 
 -------------------------------------------------------------------------------
     Description:
